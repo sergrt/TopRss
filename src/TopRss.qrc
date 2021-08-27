@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="TopRss">
+        <file>res/switch_on.png</file>
+        <file>res/switch_off.png</file>
+    </qresource>
+</RCC>
