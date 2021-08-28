@@ -1,5 +1,5 @@
 ## About
-__TopRss__ is a simple RSS feed reader made as assessment test. This repository contains source code along with precompiled binaries (Win64, "bin" folder).
+__TopRss__ is a simple RSS feed reader made as assessment test. This repository contains source code along with precompiled binaries - downloads are available in [Releases](https://github.com/sergrt/TopRss/releases) section.
 
 ## Requirements
 - Small desktop application displaying a list of news of any given RSS news channel.
